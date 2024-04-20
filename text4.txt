@@ -1,1 +1,3 @@
 added via github repo and pulled to vb code using git pull command
+
+any modification done directly in github should be pulled to IDE using git pull command
